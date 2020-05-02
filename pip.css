@@ -1,0 +1,10 @@
+.pipvid {
+    position: absolute;
+    background-image: url('icon.png');
+    background-color: transparent;
+    background-size: cover;
+    z-index: 9999;
+    top: 5px;
+    left: 5px;
+    border: none;
+}
