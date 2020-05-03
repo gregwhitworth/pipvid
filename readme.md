@@ -16,6 +16,7 @@ While this works with a lot of websites that have a fairly common HTML 5 video s
 * Twitch.com
 * CNN
 * Netflix
+* NFL GamePass
 * Disney Plus
 
 ### ...and where it doesn't
