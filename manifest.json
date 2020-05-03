@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "PIPvid",
-    "version": "0.1",
+    "version": "1",
     "description": "Enables JS PIP support for any HTML 5 video element",
     "browser_action": {
         "default_icon": "icon.png"

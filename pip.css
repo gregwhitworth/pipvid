@@ -1,10 +1,41 @@
 .pipvid {
-    position: absolute;
-    background-image: url('icon.png');
     background-color: transparent;
     background-size: cover;
-    z-index: 9999;
+    border: 2px solid transparent;
+}
+
+.pipvid:hover {
+    border: 2px solid white;
+}
+
+.pipvid-controls {
+    position: absolute;
+    display: flex;
     top: 5px;
     left: 5px;
-    border: none;
+    background: rgba(0,0,0,.6);
+    z-index: 9999;
+    transform: translateZ(0);
+}
+
+.pipvid-fw-close {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+}
+
+.pipvid-full-width-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: none;
+    z-index: 9999;
+    background: rgba(0,0,0,.8);
+    transform: translateZ(0);
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
 }
