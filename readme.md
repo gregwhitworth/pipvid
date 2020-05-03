@@ -1,4 +1,4 @@
-![PIPvid](https://github.com/gregwhitworth/pipvid/300.png "PIPvid")
+![PIPvid](https://github.com/gregwhitworth/pipvid/blob/master/300.png "PIPvid")
 
 ## Overview
 
